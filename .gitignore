@@ -1,0 +1,7 @@
+test_data/
+.Rproj.user
+test_results
+.Rhistory
+qPCR_analyzer.Rproj
+test_data.xlsx
+log.txt
