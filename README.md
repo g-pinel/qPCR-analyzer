@@ -16,6 +16,8 @@ An Excel file with the following tabs:
 - Delta CTs
 - Levels
 
+In addition, warnings will be raised for samples with technical replicates with a standard deviation > 0.5
+
 ### Example command
 Run the _Rscript_ command in your terminal followed by the R script file path and the two arguments separated by spaces:
 ```
