@@ -10,7 +10,7 @@ This R script takes a directory containing one or multiple Excel files (both XLS
 - The name of the housekeeping gene that will be used to calculate delta CTs and levels (case sensitive).
 
 ### Output
-An Excel file with the following tabs:
+An Excel file with the same name as the input directory and the following tabs will be created:
 - CTs
 - Average CTs (per gene and sample)
 - Delta CTs
